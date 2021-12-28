@@ -28,12 +28,12 @@ In order to run this application, make sure the following dependencies are confi
 Clone github repository:
 
 ```
-git clone https://github.com/mourabd/voting.git
+git clone https://github.com/mourabd/subject-voting-service.git
 ```
 
 Run the following commands from root application folder: 
 ```
-gradlew build bootRun
+gradlew clean build
 ```
 
 The application should be running at port [8081](http://localhost:8081/).
@@ -43,7 +43,7 @@ The application should be running at port [8081](http://localhost:8081/).
 Clone github repository:
 
 ```
-git clone https://github.com/mourabd/voting.git
+git clone https://github.com/mourabd/subject-voting-service.git
 ```
 
 Run the following commands from root application folder: 
